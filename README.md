@@ -1,6 +1,6 @@
 # JavaScript-TQI
  Introdução ao JavaScript
-# Contador
+# *Contador + -
 Resolução: Criando um Contador
 
 *Projeto Contador
