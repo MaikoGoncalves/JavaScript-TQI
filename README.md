@@ -1,2 +1,6 @@
 # JavaScript-TQI
  JS
+
+
+
+*Contador
