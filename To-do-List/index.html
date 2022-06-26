@@ -5,23 +5,25 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=, initial-scale=1.0">
     <link rel="stylesheet" href="assets/css/styles.css" />
+    <link href='https://unpkg.com/boxicons@2.1.2/css/boxicons.min.css' rel='stylesheet'>
     <title>To-do-List</title>
 </head>
 <body>
-    
-    <h1>To-do-List</h1>
-    <div id="list">
-        <form id="task-form">
-            <input id="task-input" name="tarefa" type="text" placeholder="Digite aqui sua tarefa" />
-            <button type="submit">Adicionar</button>
-            <button type="deletar">Remover</button>
-
-        </form>
-        <div id="tasks"></div>
+    <div class="to-do">
+        <div class="header">
+            <p> To-Do List</p>
+            <button><i class='bx bxs-trash-alt'></i></button>
+        </div>
+        <hr/>
+        <br />
+        <div class="divInsert">
+            <input class="textInsert" type="text" />
+            <button><i class='bx bx-plus'></i></button>
+        </div>
+        <ul></ul>
     </div>
+
+
     <script src="assets/js/scripts.js"></script>
-
-
-
 </body>
 </html>
