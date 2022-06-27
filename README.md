@@ -22,3 +22,4 @@ Neste projeto, criamos uma simples lista de tarefas.
   2. Quando o botão for listado, o texto aparece na lista com um checkboxlado;
   3. Quando selecionado ou ficar em checkbox, ou item correspondente deve com o texto riscado. 
 * O resultado esperado é este:
+![To-Do List](https://user-images.githubusercontent.com/64238160/175930998-1f6ffd6d-00d1-4f1d-a8c3-c5609ac3c4eb.gif)
