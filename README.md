@@ -1,9 +1,9 @@
-d# JavaScript-TQI
- Introdução ao JavaScript
+ # JavaScript-TQI  Introdução ao JavaScript
 
 <div>
 <h1>📋Projetos</h1>
 <summary>🖥️Configurando e desenvolvendo</summary>
+
 # * Contador + -
 
 Resolução: Criando um Contador
@@ -33,3 +33,109 @@ Neste projeto, criamos uma simples lista de tarefas.
 
 
 </div>
+
+
+
+<ul>
+   <li>
+      <details>
+         <summary><mark class="highlight-red_background">Aula 1 - O que danado é JavaScript? </mark> <code>script.js</code> ✅</summary>
+         <div>
+            <h4>Referências</h4>
+            <table>
+               <thead>
+                  <tr>
+                     <th>
+                        Links
+                     </th>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td><a href="https://developer.mozilla.org/pt-BR/docs/Glossary/JavaScript">glossário</a></td>
+                  </tr>                 
+                  <tr>
+                     <td><a href="https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/What_is_JavaScript">o que é o javascript</a></td>
+                  </tr>
+                     <td><a href="https://github.com/DianaMartine/curso-dio-sintaxe-basica-javascript/blob/main/Aula">pdf de instalação e configuração de ambiente</a></td>
+                  </tr>
+                  <tr>
+                     <td><a href="https://github.com/DianaMartine/curso-dio-sintaxe-basica-javascript">primeiro script</a></td>
+                  </tr>                  
+               </tbody>
+            </table>
+         </div>
+         <p>Andamento da aula</p>
+         <ul>
+            <li>
+               <details>
+                  <summary>📔História</summary>
+                  <ul>
+                     <li>
+                        <div></div>
+                        <span>Como surgiu?</span>
+                     </li>
+                  </ul>
+                  <ul>
+                     <li>
+                        <div></div>
+                        <span>Pra quê serve?</span>
+                     </li>
+                  </ul>
+                  <ul>
+                     <li>
+                        <div></div>
+                        <span>Onde usar?</span>
+                     </li>
+                  </ul>
+               </details>
+            </li>
+         </ul>
+         <ul>
+            <li>
+               <details>
+                  <summary>🖥️Configurando e desenvolvendo</summary>
+                  <ul>
+                     <li>
+                        <div></div>
+                        <span>Instalando o VSCode</span>
+                     </li>
+                  </ul>
+                  <ul>
+                     <li>
+                        <div></div>
+                        <span>Instalando a extensão Live Server</span>
+                     </li>
+                  </ul>
+                  <ul>
+                     <li>
+                        <div></div>
+                        <span>Desenvolvendo o primero código</span>
+                     </li>
+                  </ul>
+                  <ul>
+                     <li>
+                        <details>
+                           <summary>✅Boas Práticas</summary>
+                           <ul>
+                              <li>
+                                 <div></div>
+                                 <span>Externar o arquivo JS</span>
+                              </li>
+                           </ul>
+                           <ul>
+                              <li>
+                                 <div></div>
+                                 <span>Importar ao final do HTML</span>
+                              </li>
+                           </ul>
+                        </details>
+                     </li>
+                  </ul>
+               </details>
+            </li>
+         </ul>
+      </details>
+   </li>
+</ul>
+<ul>
