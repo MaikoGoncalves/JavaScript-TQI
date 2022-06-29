@@ -30,7 +30,7 @@
 
 <summary>🖥️Desenvolvendo</summary>
 
-<span>Code Do Projeto <a  href="https://github.com/MaikoGoncalves/JavaScript-TQI/tree/main/To-do-List"> To-Do List</a></span>
+<span>Code Do Projeto <a  href="https://github.com/MaikoGoncalves/JavaScript-TQI/tree/main/To-do-List"> To-Do List </a></span>
 
 Neste projeto, criamos uma simples lista de tarefas.
 
