@@ -1,14 +1,15 @@
  # JavaScript-TQI  Introdução ao JavaScript
 
 <div>
-<h1>📋Projetos🖥️</h1>
-<summary>🖥️Configurando e desenvolvendo</summary>
 
-# * Contador + -
+<h1>📋Projetos🖥️</h1>
+
+<summary><mark class="highlight-red_background">Contador usando JavaScript? </mark> <code>script.js</code> ✅</summary>
+
+<summary>🖥️Desenvolvendo</summary>
+
 
 Resolução: Criando um Contador
-
-<h2> Projeto Contador </h2>
 
 ![GIF CONTADOR](https://user-images.githubusercontent.com/64238160/175203210-05525922-94d4-4ed7-84d9-fa0c0ebf7d45.gif)
 
@@ -35,21 +36,3 @@ Neste projeto, criamos uma simples lista de tarefas.
 </div>
 
 
-
-<ul>
-   <li>
-      <details>
-         <summary><mark class="highlight-red_background">Aula 1 - O que danado é JavaScript? </mark> <code>script.js</code> ✅</summary>
-         <div>
-            <h4>Referências</h4>
-            <table>
-               <thead>
-                  <tr>
-                     <th>
-                        Links
-                     </th>
-                  </tr>
-               </thead>
-              
-   </li>
-</ul>
