@@ -40,3 +40,5 @@ Neste projeto, criamos uma simples lista de tarefas.
 </div>
 
 
+# SINTAXE E OPERADORES
+
