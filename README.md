@@ -8,11 +8,6 @@
 <summary><mark class="highlight-red_background">Contador usando JavaScript? </mark> <code>script.js</code> ✅</summary>
 <summary>🖥️Desenvolvendo</summary>
 <span>Code Do Projeto <a href="https://github.com/MaikoGoncalves/JavaScript-TQI/tree/main/Contador"> Contador</a></span>
-
-
-
-
-
 ![GIF CONTADOR](https://user-images.githubusercontent.com/64238160/175203210-05525922-94d4-4ed7-84d9-fa0c0ebf7d45.gif)
 
 
