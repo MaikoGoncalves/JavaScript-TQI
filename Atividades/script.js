@@ -1,7 +1,5 @@
 
-let contador = 0;
 
-console.log(contador++);
 
 function soma(num1, num2){
     var num1 = document.getElementById("n1").value;
