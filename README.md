@@ -44,6 +44,22 @@ Neste projeto, criamos uma simples lista de tarefas.
 
 
 
+
+
+
+
+
+
+
+
+
+
+# CALCULADORA
+<summary><mark class="highlight-red_background">Calculador usando JavaScript? </mark> <code>script.js</code> ✅</summary>
+<summary>🖥️Desenvolvendo</summary>
+<span>Code Do Projeto <a href="https://github.com/MaikoGoncalves/JavaScript-TQI/tree/main/Calculadora"> Calculadora</a></span>
+
+![Calculadora](https://user-images.githubusercontent.com/64238160/177230352-7afad61a-85a0-4e39-86ef-91b9f12aaac6.gif)
 </div>
 
 
