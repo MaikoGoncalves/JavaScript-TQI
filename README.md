@@ -31,18 +31,6 @@ Neste projeto, criamos uma simples lista de tarefas.
 
 ![To-Do List](https://user-images.githubusercontent.com/64238160/175930998-1f6ffd6d-00d1-4f1d-a8c3-c5609ac3c4eb.gif)
 
-
-
-
-
-
-
-
-
-
-
-
-
 # CALCULADORA
 <summary><mark class="highlight-red_background">Calculador usando JavaScript? </mark> <code>script.js</code> ✅</summary>
 <summary>🖥️Desenvolvendo</summary>
