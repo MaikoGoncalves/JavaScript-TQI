@@ -1,20 +1,12 @@
-
-
-
 function soma(num1, num2){
     var num1 = document.getElementById("n1").value;
     var num2 = document.getElementById("n2").value;
     num1 = parseInt(num1);
-    num2 = parseInt(num2);
-    
+    num2 = parseInt(num2);    
     var soma = num1 + num2;    
     const teste = somaMaior(soma);
-
     return res1.innerHTML = 'Sua soma é ' + ' = ' + soma;
-  
 }
-
-
 function comparaNumeros(num1, num2){
     var num1 = document.getElementById("n1").value;
     var num2 = document.getElementById("n2").value;
@@ -25,7 +17,6 @@ function comparaNumeros(num1, num2){
      }
     return res.innerHTML = 'Os Números ' + num1 + ' e ' + num2 +' são iguais.'   
 }
-
 function somaMaior(soma){
     var maiorQue = soma;
 

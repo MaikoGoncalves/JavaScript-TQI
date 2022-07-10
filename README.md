@@ -11,7 +11,6 @@
 
 ![GIF CONTADOR](https://user-images.githubusercontent.com/64238160/175203210-05525922-94d4-4ed7-84d9-fa0c0ebf7d45.gif)
 
-
 # * Desafio: To-do-List
 
 <summary><mark  class="highlight-red_background">To-Do List usando JavaScript? </mark> <code>script.js</code> ✅</summary>
@@ -38,7 +37,6 @@ Neste projeto, criamos uma simples lista de tarefas.
 
 ![Calculadora](https://user-images.githubusercontent.com/64238160/177230352-7afad61a-85a0-4e39-86ef-91b9f12aaac6.gif)
 </div>
-
 
 # SINTAXE E OPERADORES SOMA
 <summary><mark class="highlight-red_background">SOMA usando JavaScript? </mark> <code>script.js</code> ✅</summary>

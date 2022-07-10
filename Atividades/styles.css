@@ -2,7 +2,6 @@
 
 * {
     font-family: 'Open Sans', sans-serif;
- 
 }
 body {
     background: linear-gradient(45deg, black, crimson);
@@ -14,10 +13,7 @@ body {
     justify-content: center;
     flex-direction: column;
     margin: 0;
-    
 }
-
-
 .nome
 {   
     background-color: rgba(0, 0, 0, 0.5);
@@ -27,8 +23,6 @@ body {
     font-size: 30px;
     width: 80px;
     height: 25px;
-    
-
 }
 button {     
     background-color: rgba(0, 0, 0, 0.5);
@@ -42,8 +36,6 @@ button {
 button:hover{
     background-color: rgb(31, 31, 31);
 }
-
 .resultado{
     font-size: 30px;
 }
-
