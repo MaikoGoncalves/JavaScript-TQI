@@ -9,7 +9,6 @@ function limpaPalavra(palavra){
     palavra = palavra.replace(/[ ,-]+/gi, "");
     return palavra;
 }
-
 function ehPalindromo(palavra, palavraReal){
     var palavraReal = document.getElementById("frase").value;
     palavra = limpaPalavra(palavra);
@@ -17,6 +16,5 @@ function ehPalindromo(palavra, palavraReal){
     if(palavraInvertida == palavra){
         return res.innerHTML = 'A Palavra ou Frase: " ' + palavraReal + ' " é Palindromo'  
     }
-    return res.innerHTML = 'A Palavra ou Frase: " ' + palavraReal + ' " Não é Palindromo'
-    
+    return res.innerHTML = 'A Palavra ou Frase: " ' + palavraReal + ' " Não é Palindromo' 
 }
