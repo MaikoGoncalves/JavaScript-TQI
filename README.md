@@ -44,3 +44,8 @@ Neste projeto, criamos uma simples lista de tarefas.
 <span>Code Do Projeto <a href="https://https://github.com/MaikoGoncalves/JavaScript-TQI/tree/main/Atividades"> Calculadora</a></span>
 
 ![SOMA](https://user-images.githubusercontent.com/64238160/177421636-b79950a5-5c11-48c5-b8ad-3cc0161233d5.gif)
+
+# PALINDROMO
+<summary><mark class="highlight-red_background">fazendo um Palindromo usando JavaScript? </mark> <code>script.js</code> ✅</summary>
+<summary>🖥️Desenvolvendo</summary>
+<span>Code Do Projeto <a href="https://https:github.com/MaikoGoncalves/JavaScript-TQI/tree/main/Palindromo"> Palindromo </a></span>
