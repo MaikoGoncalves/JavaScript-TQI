@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;600&display=swap');
-
 * {
     font-family: 'Open Sans', sans-serif;
 }
@@ -24,7 +23,6 @@ body {
     width: 750px;
     height: 25px;
 }
-
 button {     
     background-color: black;
     border-radius: 15px;
@@ -34,21 +32,17 @@ button {
     width: 250px;
     height: 75px; 
 }
-
 .outer{
     position: relative;
     margin: 0 50px;
     
     cursor: pointer;
 }
-
 .button{
     height: 70px;
     width: 220px;
     border-radius: 50px;
-
 }
-
 .outer button{
     margin-top: 5px;
     margin-left: 5px;
@@ -61,36 +55,29 @@ button {
     cursor: pointer;
     z-index: 9;
 }
-
 .button button{
     height: 60px;
     width: 210px;
     border-radius: 50px;
 }
-
 .outer span{
     height: 100%;
     width: 100%;
     background: inherit;
 }
-
 .outer span:nth-child(1){
     filter: blur(7px);
 }
-
 .outer span:nth-child(2){
     filter: blur(14px);
 }
-
 .outer:hover{
     background: linear-gradient(#14ffe9, #ffeb3b, #ff00e0);
     animation: rotate 1.5s linear infinite;
 }
-
 .resultado{
     font-size: 30px;
 }
-
 @keyframes rotate {
     0%{
         filter: hue-rotate(0deg);
@@ -98,6 +85,4 @@ button {
     100%{
         filter: hue-rotate(360deg);
     }
-
-
 }
