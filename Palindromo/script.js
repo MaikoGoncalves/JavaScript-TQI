@@ -9,12 +9,10 @@ function limpaPalavra(palavra){
     palavra = palavra.replace(/[ ,-]+/gi, "");
     return palavra;
 }
-
 function ehPalavraFrase (palavraFrase, palavraNova){
     var palavraNova = document.getElementById("frase").value;
     let palavraT = Array.from(palavraNova);
-    var palavraFrase = 'Palavra';
-    
+    var palavraFrase = 'Palavra';    
     for(let i = 0 ;  i < palavraT.length ; i++)
     {
          if (palavraT[i] === " ")
@@ -23,13 +21,10 @@ function ehPalavraFrase (palavraFrase, palavraNova){
          } 
     }
     return  palavraFrase;
-
 }
 function ehPalindromo(palavra, palavraReal, palavraFrase){
-    var palavraReal = document.getElementById("frase").value;
-    
-    palavraFrase = ehPalavraFrase(palavraFrase);
-    
+    var palavraReal = document.getElementById("frase").value;    
+    palavraFrase = ehPalavraFrase(palavraFrase);    
     palavra = limpaPalavra(palavra);
     var palavraInvertida = palavra.split("").reverse().join("");
     if(palavraInvertida == palavra){
