@@ -9,8 +9,8 @@ body {
     background-color:  rgb(2, 39, 4);
 }
 .memory-game {
-    height: 750px;
-    width: 750px;
+    height: 760px;
+    width: 760px;
     margin: auto;
     display: flex;
     flex-wrap: wrap;
@@ -26,11 +26,9 @@ body {
     transform-style: preserve-3d; /* não deixa o elemento achatado no plano */
     transition: transform .9s;
 }
-
 .card:active {
      transform: scale(0.97);
      transition: transform .3s;
-
 }
 .card-front,
 .card-back{
