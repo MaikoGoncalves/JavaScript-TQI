@@ -58,6 +58,6 @@ Neste projeto, criamos uma simples lista de tarefas.
 <summary>🖥️Desenvolvendo</summary>
 <summary>🖥️Desafio </br> Ler um valor inteiro, que é o tempo de duração em segundos de um determinado evento em uma loja, e informe-o expresso no formato horas:minutos:segundos.</summary>
 
-<span>Code Do Projeto <a href="https://https:github.com/MaikoGoncalves/JavaScript-TQI/tree/main/Palindromo"> Palindromo </a></span>
+<span>Code Do Projeto <a href="https://github.com/MaikoGoncalves/JavaScript-TQI/tree/main/Hora"> Conversão de Tempo</a></span>
 
 ![Palindromo](https://user-images.githubusercontent.com/64238160/178540956-df53a1d0-1bd8-4a08-82a1-b37acdb5e6c1.gif)
