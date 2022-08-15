@@ -60,4 +60,4 @@ Neste projeto, criamos uma simples lista de tarefas.
 
 <span>Code Do Projeto <a href="https://github.com/MaikoGoncalves/JavaScript-TQI/tree/main/Hora"> Conversão de Tempo</a></span>
 
-![Palindromo](https://user-images.githubusercontent.com/64238160/178540956-df53a1d0-1bd8-4a08-82a1-b37acdb5e6c1.gif)
+![HORA](https://user-images.githubusercontent.com/64238160/184735652-4c9cff09-c01f-4f73-925b-27f12e2b94e2.gif)
