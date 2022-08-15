@@ -11,7 +11,7 @@ body {
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    margin: 0;
+    margin: 1.5em;
     margin-top: -100px;
     
 }
@@ -19,11 +19,11 @@ body {
 .nome
 {   
     background-color: rgba(0, 0, 0, 0.5);
-    border-radius: 15px;
+    border-radius: 25px;
     padding: 15px; 
     color: chartreuse;
     font-size: 30px;
-    width: 100px;
+    width: 170px;
     height: 25px;
     align-items: center;
     justify-content: center;
@@ -31,9 +31,11 @@ body {
 button {     
     background-color: black;
     border-radius: 25px;
+    border-color: aqua;
+    border-width: 5px;
     padding: 12px; 
     color: aqua;
-    font-size: 30px;
+    font-size: 25px;
     width: 200px;
     height: 70px; 
     cursor: pointer;
@@ -42,6 +44,8 @@ button {
 button:hover{
    background: aqua;
    color:black;
+   border-color: black;
+   border-width: 5px;
 
 }
 
@@ -52,7 +56,7 @@ button:hover{
     padding: 15px; 
     color: chartreuse;
     font-size: 30px;
-    width: 100px;
+    width: 125px;
     height: 25px;
     align-items: center;
     justify-content: center;
