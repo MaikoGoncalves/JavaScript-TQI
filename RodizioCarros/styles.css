@@ -1,0 +1,65 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+h1{
+    margin: 0;
+}
+
+body {
+    background: rgb(90, 29, 189);
+    height: 100vh;
+    width: 100vw;
+    color: chartreuse;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 0;
+    margin-top: -70px;    
+}
+
+.nome
+{   
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 25px;
+    padding: 15px; 
+    color: chartreuse;
+    font-size: 30px;
+    width: 170px;
+    height: 25px;
+    align-items: center;
+    justify-content: center;
+}
+button {     
+    background-color: black;
+    border-radius: 25px;
+    border-color: aqua;
+    border-width: 5px;
+    padding: 12px; 
+    color: aqua;
+    font-size: 25px;
+    width: 200px;
+    height: 70px; 
+    cursor: pointer;
+}
+
+button:hover{
+   background: aqua;
+   color:black;
+   border-color: black;
+   border-width: 5px;
+}
+
+.resultado
+{   
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 15px;
+    padding: 15px; 
+    color: chartreuse;
+    font-size: 30px;
+    width: 270px;
+    height: 25px;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+}
