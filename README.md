@@ -61,3 +61,20 @@ Neste projeto, criamos uma simples lista de tarefas.
 <span>Code Do Projeto <a href="https://github.com/MaikoGoncalves/JavaScript-TQI/tree/main/Hora"> Conversão de Tempo</a></span>
 
 ![HORA](https://user-images.githubusercontent.com/64238160/184735652-4c9cff09-c01f-4f73-925b-27f12e2b94e2.gif)
+
+
+#RODÍZIO DE VEÍCULOS
+<summary><mark class="highlight-red_background">Fazendo Rodízio de Veículos JavaScript? </mark> <code>script.js</code> ✅</summary>
+<summary>🖥️Desenvolvendo</summary>
+*📋 Instruções --->>
+
+* Segunda-feira, digito final da placa 1 e 2.
+* Terça-feira, digito final da placa 3 e 4.
+* Quarta-feira, digito final da placa 5 e 6.
+* Quinta-feira, digito final da placa 7 e 8.
+* Sexta-feira, digito final da placa 9 e 0.
+* O resultado esperado é este:
+
+<span>Code Do Projeto <a href="https://github.com/MaikoGoncalves/JavaScript-TQI/tree/main/RodizioCarros"> Rodízio de Veículos</a></span>
+
+![Placa](https://user-images.githubusercontent.com/64238160/184777482-432ddad1-983b-4992-9223-c45480c105cf.gif)
